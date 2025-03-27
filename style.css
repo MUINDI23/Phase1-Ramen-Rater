@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.gallery {
+    display: inline-block;
+    border: 1px solid hsl(0, 0%, 60%);
+    margin: 20px;
+    width: 50;
+}
+
+.gallery {
+    width: 100px;
+    height: 30px;
+}
+#ramen-detail {
+    margin-top: 20px;
+}
+
+#edit-ramen, #new-ramen {
+    margin-top: 20px;
+}
